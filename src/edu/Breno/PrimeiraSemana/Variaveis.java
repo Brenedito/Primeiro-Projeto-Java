@@ -1,6 +1,6 @@
 package edu.Breno.PrimeiraSemana;
 
-public class Varaveis {
+public class Variaveis {
     public static void main (String [] args){
         byte centoevinte = 120;
         short Trintamil = 30000;
@@ -16,3 +16,5 @@ public class Varaveis {
         System.out.println(MeuNome);
     }
 }
+
+
